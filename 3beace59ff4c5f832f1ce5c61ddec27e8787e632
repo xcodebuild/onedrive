@@ -1,0 +1,30 @@
+src/monitor.d
+  3af9635f31327160 363-366
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.6",
+  "base_commit_sha": "3beace59ff4c5f832f1ce5c61ddec27e8787e632",
+  "prompts": {
+    "3af9635f31327160": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dd201-304d-7da0-893b-286ff9887680",
+        "model": "gpt-5.5"
+      },
+      "human_author": "shejinxin",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 1,
+      "accepted_lines": 4,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        "src/monitor.d": {
+          "additions": 4,
+          "deletions": 1,
+          "accepted_lines": 4
+        }
+      }
+    }
+  }
+}
