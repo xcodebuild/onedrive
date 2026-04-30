@@ -1,10 +1,10 @@
 src/sync.d
-  3af9635f31327160 6917,6926
+  3af9635f31327160 6913-6916,6918-6925,6927-6929
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.2.8-ntes.6",
-  "base_commit_sha": "127006a708644115ed73fa5978236b8af1177003",
+  "base_commit_sha": "aafcc8510d2ddfd6a39cb20cb84e28f8505146a3",
   "prompts": {
     "3af9635f31327160": {
       "agent_id": {

@@ -1,10 +1,10 @@
-src/main.d
-  3af9635f31327160 1165-1169
+src/sync.d
+  3af9635f31327160 6913-6916,6918-6925,6927-6929,7319-7323
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.2.8-ntes.6",
-  "base_commit_sha": "56df797fd3fa3996e19a01d51d80bd0173a9bfb6",
+  "base_commit_sha": "aa4b55b3c506917883e74ae4477c06ec76c1b208",
   "prompts": {
     "3af9635f31327160": {
       "agent_id": {
@@ -15,13 +15,12 @@ src/main.d
       "human_author": "shejinxin",
       "messages": [],
       "total_additions": 5,
-      "total_deletions": 1,
+      "total_deletions": 0,
       "accepted_lines": 5,
       "overriden_lines": 0,
       "per_file_stats": {
-        "src/main.d": {
+        "src/sync.d": {
           "additions": 5,
-          "deletions": 1,
           "accepted_lines": 5
         }
       }
