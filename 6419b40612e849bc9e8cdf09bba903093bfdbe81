@@ -1,0 +1,35 @@
+.github/workflows/macos-testbuild.yaml
+  3af9635f31327160 1-103
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.6",
+  "base_commit_sha": "2298e8d60c6947ec81942d80f5d935bf1892363f",
+  "prompts": {
+    "3af9635f31327160": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dd201-304d-7da0-893b-286ff9887680",
+        "model": "gpt-5.5"
+      },
+      "human_author": "shejinxin",
+      "messages": [],
+      "total_additions": 103,
+      "total_deletions": 0,
+      "accepted_lines": 1104,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        "src/curlengine.d": {
+          "accepted_lines": 812
+        },
+        ".github/workflows/macos-testbuild.yaml": {
+          "additions": 103,
+          "accepted_lines": 103
+        },
+        "makefile.in": {
+          "accepted_lines": 189
+        }
+      }
+    }
+  }
+}
