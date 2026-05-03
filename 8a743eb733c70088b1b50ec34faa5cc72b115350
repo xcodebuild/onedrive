@@ -1,0 +1,33 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.6",
+  "base_commit_sha": "8a743eb733c70088b1b50ec34faa5cc72b115350",
+  "prompts": {
+    "3af9635f31327160": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dd201-304d-7da0-893b-286ff9887680",
+        "model": "gpt-5.5"
+      },
+      "human_author": "shejinxin",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 2295,
+      "overriden_lines": 1,
+      "per_file_stats": {
+        "src/clientsidefiltering.d": {
+          "accepted_lines": 1301
+        },
+        "makefile.in": {
+          "accepted_lines": 188,
+          "overriden_lines": 1
+        },
+        "src/curlengine.d": {
+          "accepted_lines": 806
+        }
+      }
+    }
+  }
+}
