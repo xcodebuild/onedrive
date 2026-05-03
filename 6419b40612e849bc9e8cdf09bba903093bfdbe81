@@ -4,7 +4,7 @@
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.2.8-ntes.6",
-  "base_commit_sha": "2298e8d60c6947ec81942d80f5d935bf1892363f",
+  "base_commit_sha": "6419b40612e849bc9e8cdf09bba903093bfdbe81",
   "prompts": {
     "3af9635f31327160": {
       "agent_id": {
@@ -12,22 +12,26 @@
         "id": "019dd201-304d-7da0-893b-286ff9887680",
         "model": "gpt-5.5"
       },
-      "human_author": "shejinxin",
+      "human_author": null,
       "messages": [],
-      "total_additions": 103,
+      "total_additions": 1404,
       "total_deletions": 0,
-      "accepted_lines": 1104,
+      "accepted_lines": 2399,
       "overriden_lines": 0,
       "per_file_stats": {
+        "makefile.in": {
+          "accepted_lines": 378
+        },
         "src/curlengine.d": {
-          "accepted_lines": 812
+          "accepted_lines": 1618
+        },
+        "src/clientsidefiltering.d": {
+          "additions": 1301,
+          "accepted_lines": 1301
         },
         ".github/workflows/macos-testbuild.yaml": {
           "additions": 103,
           "accepted_lines": 103
-        },
-        "makefile.in": {
-          "accepted_lines": 189
         }
       }
     }
